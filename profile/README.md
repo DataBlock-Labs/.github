@@ -9,3 +9,5 @@ We build data infrastructure and the products that sit on it.
 | **[databolt-standard-patterns](https://github.com/DataBlock-Labs/databolt-standard-patterns)** | Open-source ingestion patterns (`databolt.ingestion.api`), Apache-2.0 |
 
 Consulting and contact: **[datablock.pro](https://datablock.pro)**
+
+Follow along: [X @Eddgie_AI](https://x.com/Eddgie_AI) · [LinkedIn](https://www.linkedin.com/in/edwardplata/)
